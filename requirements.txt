@@ -1,0 +1,14 @@
+click==6.7
+Flask==0.12.1
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+pbr==2.1.0
+pygobject==3.22.0
+pyxdg==0.25
+six==1.10.0
+stevedore==1.21.0
+virtualenv==15.0.3
+virtualenv-clone==0.2.6
+virtualenvwrapper==4.7.2
+Werkzeug==0.12.1
