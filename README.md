@@ -27,7 +27,7 @@ Werkzeug==0.11.11
 
 $ pip freeze > requirements.txt
 
-$ export FLASK_APP=hello_world.py
+$ export FLASK_APP=run.py
 $ flask run
- * Serving Flask app "hello_world"
+ * Serving Flask app "run.py"
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
