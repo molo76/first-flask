@@ -1,6 +1,7 @@
 # first-flask
 My first python / flask tutorial repo
 
+Taken from here: 
 https://scotch.io/tutorials/getting-started-with-flask-a-python-microframework
 
 $ pip install virtualenv
